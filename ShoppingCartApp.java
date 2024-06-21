@@ -61,7 +61,7 @@ public class ShoppingCartApp {
                         int index = availableItems.indexOf(item);
                         total += prices.get(index);
                     }
-                    System.out.println("Total amount: -" + total);
+                    System.out.println("Total amount: " + total);
                     break;
                     
                     
